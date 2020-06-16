@@ -31,8 +31,8 @@ staticDir = ["static"]
 [languages]
   [languages.en]
     title = "Victor Fleury"
-    homeSubtitle = """A VFX developer diary."""
-    homeSubtitle2 = """I am a Pipeline TD and I enjoy building  cool tools with Python and fixing broken stuff."""
+    homeSubtitle = """I am a Pipeline TD"""
+    homeSubtitle2 = """I enjoy building  cool tools with Python and fixing broken stuff."""
     homeSubtitle3 = """This is where I write about it."""
     keywords = ""
     writtenBy = "Written by"

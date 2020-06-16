@@ -1,6 +1,6 @@
 ---
 title: "Implementing drag and drop in Python using Qt"
-date: 2019-11-27T20:55:41-05:00
+date: 2020-06-14T20:55:41-05:00
 draft: true
 tags: ['python', 'Qt', 'PySide']
 ---
@@ -217,3 +217,6 @@ And you will end up with rows getting removed although you just wanted to move t
 If you want to have a custom indicator of the widgets you are dragging, you need to reimplement the method `startDrag()` on the view.
 
 We'll see that next time !
+
+
+{{<gist victorfleury d895872f0ae7cbff41db636c6e70ae55>}}
