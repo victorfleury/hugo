@@ -1,7 +1,6 @@
 ---
 title: "Implementing drag and drop in Python using Qt"
 date: 2020-06-14T20:55:41-05:00
-draft: true
 tags: ['python', 'Qt', 'PySide']
 ---
 

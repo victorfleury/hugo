@@ -1,5 +1,5 @@
-# baseURL = "http://localhost:1313/"
-baseURL = ""
+baseURL = "http://victorfleury.github.io/"
+# baseURL = ""
 languageCode = "en-us"
 theme = "hello-friend-ng"
 themesDir = "./themes"

@@ -1,7 +1,6 @@
 ---
 title: "Interfacing C++ and Python"
-date: 2020-05-17T22:19:18-04:00
-draft: true
+date: 2020-06-15T21:19:18-04:00
 tags: ['python', 'c++']
 ---
 
